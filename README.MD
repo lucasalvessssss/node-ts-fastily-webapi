@@ -196,7 +196,7 @@ Servidor executando na porta:
 
 | Desenvolvedor |
 | :-----------: |
-|    Seu Nome   |
+|    Lucas Alves   |
 
 # 📄 Licença
 
